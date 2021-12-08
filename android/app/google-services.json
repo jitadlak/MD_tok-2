@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "9192250764",
+    "project_id": "md-tok",
+    "storage_bucket": "md-tok.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9192250764:android:52f2abb3e2e182818c4aa9",
+        "android_client_info": {
+          "package_name": "com.md_tok"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "9192250764-pjvo42e6hs7juuirr1s2c8no6a0ek7k0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNTBrNL9AJUx-VWa39GQ6sH6HBObJDmeE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "9192250764-pjvo42e6hs7juuirr1s2c8no6a0ek7k0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
